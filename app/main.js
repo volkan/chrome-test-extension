@@ -36,7 +36,7 @@ vg.getKey = function (intVal) {
 };
 
 vg.getPath = function (intVal) {
-    var path= 'backround/slide_' + intVal + '.jpeg';
+    var path= 'background/slide_' + intVal + '.jpeg';
     return path;
 };
 
